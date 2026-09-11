@@ -8,3 +8,8 @@ git checkout main
 git checkout -b new-branch-name
 git switch -c new-branch-name
 ```
+
+## command on running the script
+```bash
+npx playwright test placeholder-links.spec.js
+```
