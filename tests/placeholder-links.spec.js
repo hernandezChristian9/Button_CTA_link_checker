@@ -1,4 +1,4 @@
-import { TARGET_URLS } from './target-links.ts';
+import { TARGET_URLS } from '../target-links/target-links.ts';
 
 const { test, expect } = require('@playwright/test');
 const fs = require('fs');
