@@ -8,6 +8,11 @@ git checkout main
 git checkout -b new-branch-name
 git checkout new-branch-name
 ```
+## install dependencies
+```bash
+npm install
+npx install playwright
+```
 
 ## command on running the script
 ```bash
