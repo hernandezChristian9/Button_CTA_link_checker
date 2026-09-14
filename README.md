@@ -1,4 +1,4 @@
-# Sonnet_link_checker
+# Button_CTA_link_checker
 Simple Script to check links of all buttons on CTA's on your build
 
 ## once you have git on you machine, clone this repo using these instructions below:
