@@ -6,7 +6,7 @@ Simple Script to check links of all buttons on CTA's on your build
 git clone https://github.com/hernandezChristian9/Button_CTA_link_checker
 git checkout main
 git checkout -b new-branch-name
-git switch -c new-branch-name
+git checkout new-branch-name
 ```
 
 ## command on running the script
